@@ -12,3 +12,12 @@ class HpoiItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
+
+
+class MetaDataItem(scrapy.Item):
+    title = scrapy.Field()
+    item_type = scrapy.Field()
+    attribute = scrapy.Field()
+    link = scrapy.Field()
+    pic_location = scrapy.Field()
+    intro = scrapy.Field()

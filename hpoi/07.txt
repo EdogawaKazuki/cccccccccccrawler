@@ -1,0 +1,18 @@
+{'attribute': {'中文名: ': ['BrilliantStage 偶像大师2 萩原雪歩 Lawson Vital Sunflower '
+                         'ver.'],
+               '制作: ': ['MegaHouse'],
+               '原型: ': ['河野忠男'],
+               '发售日: ': ['2012年10月'],
+               '名称: ': ['ブリリアントステージ アイドルマスター2 萩原雪歩 Lawson Vital Sunflower '
+                        'ver.'],
+               '定价: ': ['0日元 （0元）'],
+               '尺寸: ': ['H=200mm'],
+               '属性: ': ['女', '、', '比例人形', '、', '全年龄'],
+               '比例: ': ['1/7'],
+               '系列: ': ['Brilliant Stage'],
+               '素材: ': ['PVC'],
+               '角色: ': ['萩原雪步']},
+ 'intro': {'content': [], 'title': []},
+ 'item_type': '手办',
+ 'link': 'https://www.hpoi.net/hobby/30007',
+ 'title': 'BrilliantStage 偶像大师2 萩原雪歩 Lawson Vital Sunflower ver.  | Hpoi手办维基'}
